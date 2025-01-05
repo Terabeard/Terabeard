@@ -14,10 +14,7 @@ Here's a bit about me:
 - Programming Languages: Java, SQL, PLSQL, HTML, C#, C and C++ (very basics), Rust
 
 ## 📈 GitHub Stats
-![Terabeard's GitHub stats](https://github-readme-stats.vercel.app/api?username=Terabeard&show_icons=true&theme=radical)
-
-## 🏆 GitHub Trophies
-![Terabeard's GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Terabeard&theme=radical)
+![Terabeard's GitHub stats](https://github-readme-stats.vercel.app/api?username=Terabeard&show_icons=true&theme=dracula)
 
 ## 📫 Connect with Me
 Hmm, should really get into this
