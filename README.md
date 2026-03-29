@@ -5,7 +5,7 @@ Greetings fellow tinkerers! I'm a developer and software architect with by now 1
 Here's a bit about me:
 
 ## 🚀 About Me
-- 🔭 I’m currently working on my own blog which will be up pretty soon. This has been a personal favorite of mine for many years now. One of my good intentions for 2025 is actually starting one :).
+- 🔭 Currently working on a little game in C.
 - 🌱 I’m currently learning Hugo actually as that is what I'm using for the blog. Next to that I'm also tinkering with my homelab and Linux which I started at the end of 2024. Just some basis stuff with VM's, containers and CD/CI pipelines.
 - 📫 How to reach me: For now, only by github
 - ⚡ Fun fact: Yeah, you guessed it right, I have a beard!
